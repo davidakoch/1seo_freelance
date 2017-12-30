@@ -210,7 +210,13 @@ section {
 }
 
 .btn-learn {
-
+  background-color: rgb(255, 132, 0);
+  margin-top: 255px; 
+  margin-left: 621px; 
+  border-radius: 25px; 
+  width: 205px;
+  height: 46px;
+  color: rgb(255, 255, 255);
 }
 
 

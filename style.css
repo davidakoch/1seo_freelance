@@ -182,6 +182,24 @@ but the lightbox is an extra add-on */
   margin-left: 5px; 
 }
 
+.about-us {
+  display: inline;
+  width: 1440px; 
+}
+
+.about-us-text {
+  margin-left: 280px;
+  width: 543px;
+  display: inline-block;
+}
+
+.adt-dealer {
+  display: inline-block;
+  height: 540px;
+  width: 597px;
+  background-image: url("./img/adt.png")
+}
+
 
 
 

@@ -257,6 +257,20 @@ section {
       font-size: 19px;
 }
 
+.option-price {
+  color: rgb(19, 107, 173);
+}
+
+.option-price span {
+  font-size: 45px; 
+}
+
+.fa-usd {
+  vertical-align: super;
+}
+
+
+
 
 
 

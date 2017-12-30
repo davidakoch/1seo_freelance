@@ -220,13 +220,15 @@ section {
 }
 
 .price-plan {
-  color: rgb(250, 250, 250);
+  background-color: rgb(250, 250, 250);
+  height: 610px;
 }
+
 
 /*need to work with ez google fonts*/
 .choose-adt-plan {
-  margin-top: 29px;
   color: black;
+  padding-top: 29px; 
 }
 
 /*need to correct with ez google fonts*/
@@ -236,16 +238,20 @@ section {
 }
 
 .plan-options {
-  width: 64%;
+  width: 66%;
   margin: 0 auto;
 }
 
-.option1, .option2, .option3, .option4 {
-  background-color: white; 
-  margin-right: 12px; 
-  color: black;
-  height: 100px;
+#plans {
+  height: 414px;
 }
+
+#plans [class*='col-'] {
+      background-color: rgb(255, 255, 255);
+      background-clip: content-box;
+}
+
+
 
 
 

@@ -219,6 +219,35 @@ section {
   color: rgb(255, 255, 255);
 }
 
+.price-plan {
+  color: rgb(250, 250, 250);
+}
+
+/*need to work with ez google fonts*/
+.choose-adt-plan {
+  margin-top: 29px;
+  color: black;
+}
+
+/*need to correct with ez google fonts*/
+.budget-lifestyle {
+  color: blue;
+  margin-bottom: 47px;
+}
+
+.plan-options {
+  width: 64%;
+  margin: 0 auto;
+}
+
+.option1, .option2, .option3, .option4 {
+  background-color: white; 
+  margin-right: 12px; 
+  color: black;
+  height: 100px;
+}
+
+
 
 
 

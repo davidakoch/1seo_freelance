@@ -251,6 +251,12 @@ section {
       background-clip: content-box;
 }
 
+/* again going to have to use ez google fonts */
+.option-title {
+      padding-top: 23px;
+      font-size: 19px;
+}
+
 
 
 

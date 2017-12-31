@@ -349,5 +349,15 @@ section {
   display: inline-block;
 }
 
+.footer-background {
+  height: 481px; 
+  background-color: rgb(39, 39, 39);
+}
+
+.footer-text {
+  width: 64%;
+  margin: 0 auto;
+}
+
 
 

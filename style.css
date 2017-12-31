@@ -350,7 +350,7 @@ section {
 }
 
 .footer-background {
-  height: 481px; 
+  height: 495px; 
   background-color: rgb(39, 39, 39);
 }
 
@@ -411,11 +411,56 @@ section {
   background-repeat: no-repeat;
   height: 173px;
   margin-top: 8px;
-  margin-left: 25px;
 }
 
 /* work on font size with ez google font */
 
-.links-title {
+.links-title, .news-title, .newsletter-title {
   margin-top: 26px;
 }
+
+/* work on font size with ez google font */
+
+.license-number {
+  color: rgb(224, 119, 6);
+}
+
+.footer-legal-text {
+  margin-top: 15px;
+  background-image: url("./img/footer-legal-text.png");
+  background-repeat: no-repeat;
+  width: 900px;
+  height: 90px;
+}
+
+#nameform {
+  margin-top: 21px;
+  margin-bottom: 21px;
+}
+
+#email {
+  background-color: rgb(59, 59, 59);
+  height: 36px;
+  width: 166px;
+  font-size: 12px;
+  padding-left: 25px;
+}
+
+.newsletter-email {
+  width: 207px;
+  background-color: rgb(59, 59, 59);
+  border-radius: 5px;
+}
+
+#newsletter-button {
+  background-color: rgb(39, 39, 39);
+  color: rgb(59, 115, 136);
+  height: 31px;
+  width: 35px;
+  border-radius: 5px;
+  margin-top: 4px;
+}
+
+
+
+

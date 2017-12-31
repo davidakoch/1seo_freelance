@@ -257,8 +257,15 @@ section {
       font-size: 19px;
 }
 
+.option-title-video {
+      padding-top: 23px;
+      font-size: 19px;
+      display: inline-block;
+}
+
 .option-price {
   color: rgb(19, 107, 173);
+  margin-bottom: -10px;
 }
 
 .option-price span {
@@ -269,11 +276,78 @@ section {
   vertical-align: super;
 }
 
+.options-list li {
+  list-style-type: none;
+  border-bottom: 1px solid #f7f7f7;
+  border-top: 1px solid #f7f7f7;
+  font-size: 9px;
+  margin-bottom: 13px;
+}
 
+.blue-line {
+  color: rgb(19, 107, 173);
+  font-weight: bold;
+}
 
+.options-list li.video-line {
+  font-weight: bold;
+  font-size: 14px;
+}
 
+.options-list li.blue-video-line {
+  color: rgb(19, 107, 173);
+  font-weight: bold;
+  font-size: 14px;
+}
 
+.btn-contact1 {
+  border-radius: 25px; 
+  width: 100px;
+  height: 25px;
+  background-color: rgb(255, 132, 0);
+  color: white;
+  font-size: 8px;
+  margin-top: 209px;
+}
 
+.btn-contact2 {
+  border-radius: 25px; 
+  width: 100px;
+  height: 25px;
+  background-color: rgb(255, 132, 0);
+  color: white;
+  font-size: 8px;
+  margin-top: 124px;
+}
+
+.btn-contact3 {
+  border-radius: 25px; 
+  width: 100px;
+  height: 25px;
+  background-color: rgb(255, 132, 0);
+  color: white;
+  font-size: 8px;
+  margin-top: 86px;
+}
+
+.btn-contact4 {
+  border-radius: 25px; 
+  width: 100px;
+  height: 25px;
+  background-color: rgb(255, 132, 0);
+  color: white;
+  font-size: 8px;
+}
+
+.value {
+  height: 50px;
+}
+
+.best-value {
+  background-image: url("./img/best_value.png");
+  background-repeat: no-repeat;
+  display: inline-block;
+}
 
 
 

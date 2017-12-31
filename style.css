@@ -381,12 +381,16 @@ section {
   margin-left: 10px;
 }
 
-#footer-phone, #footer-mail {
+#footer-phone, #footer-mail, #footer-icons {
   padding-top: 7px;
 }
 
 #footer-envelope {
    color: rgb(215, 115, 7);
+}
+
+#footer-icons i {
+  margin-left: 15px;
 }
 
 /*.fa-twitter, .fa-linkedin, .fa-google-plus, .fa-instagram {

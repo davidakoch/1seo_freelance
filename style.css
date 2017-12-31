@@ -158,19 +158,13 @@ but the lightbox is an extra add-on */
   height: 39px;
 }
 
+/* again another font that needs to be changed */
 .free-quote-bottom {
   height: 47px; 
   background-color: rgb(19, 107, 173);
-}
-
-/* again another font that needs to be changed */
-
-.free-quote-bottom p {
-  margin-left: 22px; 
-  padding-top: 13px;
   font-size: 13px;
   color: white;
-  display: inline-block;
+  padding-left: 15px;
 }
 
 .fa-chevron-circle-right {
@@ -411,6 +405,7 @@ section {
   background-repeat: no-repeat;
   height: 173px;
   margin-top: 8px;
+  margin-left: -5px;
 }
 
 /* work on font size with ez google font */

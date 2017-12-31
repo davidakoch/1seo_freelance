@@ -393,18 +393,23 @@ section {
   margin-left: 15px;
 }
 
-/*.fa-twitter, .fa-linkedin, .fa-google-plus, .fa-instagram {
- background-color: rgb(39, 39, 39);
- border-radius: 50%;
- border: 2px solid grey;
- padding: 10px;
- cursor: pointer;
+/*I just had to give up on the circles for the font. the css would have been time consuming and didn't look good*/
+
+#footer-misc {
+  height: 280px;
+  padding-top: 25px;
 }
 
-.fa-facebook {
- background-color: rgb(39, 39, 39);
- border-radius: 60%;
- border: 2px solid grey;
- padding: 10px;
+.footer_JAL {
+  background-image: url("./img/footer_JAL.png");
+  background-repeat: no-repeat;
+  height: 70px;
 }
-*/
+
+.footer_JAL_text {
+  background-image: url("./img/footer_JAL_text.png");
+  background-repeat: no-repeat;
+  height: 173px;
+  margin-top: 8px;
+  margin-left: 25px;
+}
